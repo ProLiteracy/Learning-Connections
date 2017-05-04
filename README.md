@@ -1,1 +1,1 @@
-# Learning-Connections
+Learning Connections
