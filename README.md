@@ -12,8 +12,8 @@ This repository is designed to host the most recent iterations of applicable ONE
 ### Use Instructions I: Download R & RStudio
 The following steps will allow collaborators to access RStudio (required):
 1) Download R 3.4.0 for Windows: https://cran.r-project.org/bin/windows/base/ 
-    a) Download R 3.4.0 for Mac: https://cran.r-project.org/bin/macosx/
-2) Download RStudio Desktop (Open Source License): https://www.rstudio.com/products/rstudio/download2/
+2) (Optional) Download R 3.4.0 for Mac: https://cran.r-project.org/bin/macosx/
+3) Download RStudio Desktop (Open Source License): https://www.rstudio.com/products/rstudio/download2/
 
 ### Use Instructions II: Run RMarkdown Files
 The following steps will allow users to run current projects in RStudio:
@@ -21,7 +21,7 @@ The following steps will allow users to run current projects in RStudio:
 2) Open RStudio
 3) Click "File" > "Open File..." & open .Rmd file in download directory
 4) Follow the steps provided in each script
-    a) To run each "chunk" of code, click the green arrow in the upper-right corner of each grey section
+5) To run each "chunk" of code, click the green arrow in the upper-right corner of each grey section
 
 ### Updates
 05/04/17 Created "Learning Connections" repository; populated with datasets and mock generator and engine source code
